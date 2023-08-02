@@ -1,8 +1,7 @@
 # Prg1 Assignment
 
 
-## Undead creatures are attacking the city! Position your units to protect the city until
-you have killed enough of the creatures to drive them off. <br>
+## Undead creatures are attacking the city! Position your units to protect the city until you have killed enough of the creatures to drive them off. <br>
 In this “tower defence” strategy game, monsters are advancing on the city from right
 to left across 5 lanes. To kill the monsters, you have to purchase units and place them
 on the field of battle so that they can shoot or block the monsters. However, you start
